@@ -4,8 +4,10 @@ Common shapefiles for mapping projects on WRAL, mostly adapted/simplified from [
 
 Protip: Simplify shapefiles for publication [using mapshaper](http://mapshaper.org/).
 
+Click the links below to download the zip files.
+
 ##Counties
-**county_water**: Shapefile includes all 100 North Carolina counties with water features subtracted from geometry.
+**[county_water.zip](https://github.com/wraldata/shapefiles/blob/master/counties/county_water.zip?raw=true)**: Shapefile includes all 100 North Carolina counties with water features subtracted from geometry.
 
 **Notable Attributes**
 
@@ -13,7 +15,7 @@ Protip: Simplify shapefiles for publication [using mapshaper](http://mapshaper.o
 - County FIPS code stored in `COUNTYFP`
 
 ##Election precincts
-**precinct_water**: Shapefille includes all North Carolina precincts with water features subtracted from geometry.
+**[precinct_water](https://github.com/wraldata/shapefiles/blob/master/precincts/precinct_water.zip?raw=true)**: Shapefille includes all North Carolina precincts with water features subtracted from geometry.
 
 **Notable Attributes**
 
