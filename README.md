@@ -13,4 +13,10 @@ Protip: Simplify shapefiles for publication [using mapshaper](http://mapshaper.o
 - County FIPS code stored in `COUNTYFP`
 
 ##Election precincts
-Coming soon
+**precinct_water**: Shapefille includes all North Carolina precincts with water features subtracted from geometry.
+
+**Notable Attributes**
+
+- County name stored in `County`
+- Precinct designation stored in `Name` (not unique)
+- "County-Precinct" stored in `co-prec` (unique)
